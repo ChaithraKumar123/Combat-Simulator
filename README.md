@@ -17,3 +17,9 @@ to purchase units at respective cost. Shown in table 1.2
 3. Concept of Medics :Money remaining after the purchasing of armies will be used to hire and outfit medics. When a unit dies, Player is prompted whether he wants to supply the medics and retain the lost unit ,if yes, it will be returned to the pool at the back of the army. Each time this happens, supplies for the medics decreases. Once the medics have no supplies left, they will be unable to save any more units. Medics are hired and supplied at $1 per unit.
 4.Winner of each battle is declared.The losing unit can retain this unit if medics is left.
 5.Winner of the Combat is declared, if of one of the player is completely destroyed and the other player has units left for battle.
+
+
+<img width="282" alt="Screenshot 2019-07-01 at 8 51 15 PM" src="https://user-images.githubusercontent.com/41659604/60447867-09574680-9c42-11e9-88be-056a6c139ac9.png">
+
+<img width="366" alt="Screenshot 2019-07-01 at 8 51 25 PM" src="https://user-images.githubusercontent.com/41659604/60447877-107e5480-9c42-11e9-8529-0c90c9c4358d.png">
+
